@@ -1,8 +1,6 @@
 ---
 title: Don't send email from your own server
 tags: ["email", "adversarial", "everything-is-broken"]
-cover: mailboxes.jpg
-author: atte juvonen
 ---
 
 It's fine to run your own server to receive email, but save yourself a headache, don't try to send any. This is a cautionary tale about not believing things you read on the internet. It's also a story about a decentralized communication protocol that was widely adopted by the entire world, only to be slowly suffocated to death by a giant adtech company. But first and foremost, it's a story about me trying to send email to my mom.
